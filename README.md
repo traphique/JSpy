@@ -1,11 +1,3 @@
-# JSpy 🕵️
-╔═══════════════════════════════════════════════════════════════╗                              ║
-║  JSpy v0.2 - JavaScript Intelligence Extractor                ║
-║  Produced by Traphic                                          ║
-║  Extracts endpoints, secrets, vulns from JS with LLM insights ║
-╚═══════════════════════════════════════════════════════════════╝
-                                    
-                                    READ ME 
 Analyzes JavaScript files to extract API endpoints, hardcoded secrets, and vulnerability sinks using static analysis and LLM-powered inspection.
 
 ---
